@@ -14,13 +14,16 @@ body {
   min-height: 100vh;
   text-align: center;
 }
+
 h1 {
   margin-bottom: 10px;
 }
+
 label {
   margin:  0 auto;
   font-size: 40px;
 }
+
 input {
   padding: 10px 20px;
   border-radius: 10px;
