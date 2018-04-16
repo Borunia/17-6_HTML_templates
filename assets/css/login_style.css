@@ -33,11 +33,10 @@ input {
 }
 
 .image {
-  background-image: url(../img/audi.jpeg);
+  background-image: url(../img/audi.jpeg); 
   width: 600px;
   height: 320px;
   background-position: 100% ;
   background-size: 100%;
-  
 }
 
