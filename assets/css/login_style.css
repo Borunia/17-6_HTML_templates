@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightblue;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+label {
+  margin:  0 auto;
+  font-size: 40px;
+}
+
+input {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  font-size: 40px;
+  background-color: greenyellow;
+  text-align: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.image {
+  background-image: url(../img/audi.jpeg); 
+  width: 600px;
+  height: 320px;
+  background-position: 100% ;
+  background-size: 100%;
+}
+
